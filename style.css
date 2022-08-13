@@ -1,0 +1,108 @@
+/* STYLE SECTIONING TAGS */
+
+
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+ background-color: #fffbd6; 
+ text-align: center;
+}
+
+h1 {
+  color: #e5a4cb;
+  font-family: pacifico, Helvetica, sans-serif;
+  font-size: 50px;
+  line-height: 1.6;
+  letter-spacing: 3px;
+  text-decoration: underline wavy #29453c 5px;
+  text-shadow:2px 3px #2e1c2b;
+}
+
+
+p {
+	color:#29453C;
+	font-family: Arial, Helvetica, sans-serif;
+	padding: 15px;
+}
+
+.me {
+	max-width: 300px;
+	max-height: 300px;
+	border-radius:550px 30px;
+	margin-top: 20px;
+	
+}
+.fav {
+	max-width: 200px;
+	max-height: 200px;
+	border-radius:30px 550px;
+	padding: 20px;
+}
+
+img {
+border: 8px solid  gray;
+}
+
+.top {
+	text-align: left;
+	margin-left: 250px;
+}
+
+.bottom {
+	text-align: right;
+	margin-right: 250px;
+}
+
+.intro {
+	margin: 0 200px;
+}
+
+.love {
+	margin-top: 5%;
+}
+
+
+#vc {
+	margin-top: 5%;
+}
+#app {
+	margin-top: 5%;
+	max-width: 300px;
+	max-height: 300px;
+}
+
+.I {
+	margin: 0 20%;
+}
+ul {
+	list-style-type: none;
+	background-color: #801C21;
+	overflow: hidden;
+	padding:1em;
+}
+
+li {
+	display: inline;
+}
+
+li a {
+	text-decoration: none;
+	font-size: 1.5em;
+	color: white;
+	padding: 1em;
+	
+}
+
+li a:hover {
+	background-color: #e5a4cb;
+}
+
+.font {
+	font-family: pacifico, Helvetica, sans-serif;
+}
+
+iframe {
+	margin-top: 5%;
+}
